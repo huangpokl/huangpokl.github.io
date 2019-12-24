@@ -16,8 +16,8 @@
 title: KinJaz的博客
 description: > # this means to ignore newlines until "baseurl:"
   Kinjaz个人博客网站
-baseurl: "https://huangpokl.github.io/kinjaz.github.io/"
-url: "https://huangpokl.github.io/kinjaz.github.io/"
+baseurl: ""
+url: "https://huangpokl.github.io/"
 permalink: /:year/:month/:day/:title
 repository: huangpokl/kinjaz.github.io
 paginate: 5
